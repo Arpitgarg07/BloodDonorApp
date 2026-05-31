@@ -1,12 +1,15 @@
 <div align="center">
 
+<img src="https://count.getloli.com/get/@Arpitgarg07-BloodDonorApp?theme=rule34" alt="Visitor Count"/>
+<br/><br/>
+
+
+
 <img src="https://img.shields.io/badge/Platform-Android-red?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-Firestore-orange?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-Dart-blue?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-
-
-<br/><br/>
+<br/>
 
 # 🩸 Blood Donor Finder
 
@@ -210,8 +213,6 @@ Each donor document in Firestore has the following structure:
 ---
 
 <div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Arpitgarg07-BloodDonorApp&label=Repo%20Visitors&color=red&icon=5&pretty=true)
 
 Made with ❤️ and 🩸 in Jaipur, Rajasthan
 
