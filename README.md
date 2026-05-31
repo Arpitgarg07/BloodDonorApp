@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Flutter-Dart-blue?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
+
 <br/><br/>
 
 # 🩸 Blood Donor Finder
@@ -204,14 +205,14 @@ Each donor document in Firestore has the following structure:
 
 ## 📄 License
 
-This project is developed for academic purposes under the Mobile Application Lab curriculum (Academic Year 2025–26) at Poornima Institute of Engineering & Technology.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
 <div align="center">
 
-Made with ❤️ and 🩸 in Jaipur
+![Visitor Count](https://visitcount.itsvg.in/api?id=Arpitgarg07-BloodDonorApp&label=Repo%20Visitors&color=red&icon=5&pretty=true)
 
-**[📱 Try the App](https://i.apponthego.com/a78b0)** • **[🐛 Report an Issue](https://github.com/Arpitgarg07/BloodDonorApp/issues)**
+Made with ❤️ and 🩸 in Jaipur, Rajasthan
 
 </div>
