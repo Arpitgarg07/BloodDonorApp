@@ -202,7 +202,6 @@ Each donor document in Firestore has the following structure:
 **Arpit Garg**
 - 🎓 PIET23CS025 — Department of Computer Engineering
 - 🏫 Poornima Institute of Engineering & Technology, Jaipur
-- 📧 Submitted to: Ms. Bersha Kumari (Assistant Professor)
 
 ---
 
